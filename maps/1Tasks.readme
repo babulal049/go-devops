@@ -1,7 +1,9 @@
-1. create maps normally
-2. create maps using make
-3. map returning values
-4. adding new key value pairs to map
-5. delete(map, key_name)
-6. for loop in maps
-7. truncating maps - emptying the maps using for loop and reinitialize it using for loop
+create maps normally
+create maps using make
+Print length of maps
+Accessing map
+map returning values
+adding new key value pairs to map
+delete(map, key_name)
+for loop in maps
+truncating maps - emptying the maps using for loop and reinitialize it using for loop
