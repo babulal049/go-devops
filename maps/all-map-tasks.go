@@ -5,8 +5,7 @@ import "fmt"
 func main() {
 	/* Task1 & 2 :lets create 2 maps in 2 different ways */
 
-	subject_marks := map[string]int{"English": 40, "Maths": 30} // Normal declaration
-
+	subject_marks := map[string]int{"English": 40, "Maths": 30} // Normal declaration - map[string]int ==> here "Key' is of string type, "Value" is of INT type
 	exam_attempts := make(map[string]int) // Using make  command
 	exam_attempts["English"] = 2
 	exam_attempts["Maths"] = 3
